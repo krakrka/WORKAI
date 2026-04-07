@@ -1,0 +1,7 @@
+fastapi==0.110.1
+uvicorn==0.29.0
+crewai==0.28.8
+langchain==0.1.16
+chromadb==0.4.24
+docker==7.0.0
+streamlit==1.33.0
